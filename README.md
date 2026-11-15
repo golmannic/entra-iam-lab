@@ -6,8 +6,8 @@ Tenant: free-tier lab directory. All users are fictional test accounts.
 ## Week 1: Users, groups, roles, tenant basics
 - Security defaults enabled; MFA enforced on admin account
 - $1 Azure budget alert configured
-- <N> test users created (e.g., alex.it, ...)
-- 3 security groups: <Group 1>, <Group 2>, <Group 3>
+- 10 test users created
+- 3 security groups: SG-HR, SG-IT, SG-OP
 
 ## Role inventory
 
@@ -33,4 +33,4 @@ Tenant: free-tier lab directory. All users are fictional test accounts.
 ![Users](screenshots/users.png)
 
 ## What I learned
-<2-3 sentences in your own words: e.g., difference between Entra roles and Azure RBAC>
+Organization of groups and other aspects like user creation, security policies, etc.
